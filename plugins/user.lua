@@ -1,8 +1,7 @@
 return {
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
-  -- "andweeb/presence.nvim",
-  -- {
+  -- "joshdick/onedark.vim", -- TODO: fix this when using tsserver
   --   "ray-x/lsp_signature.nvim",
   --   event = "BufRead",
   --   config = function()
